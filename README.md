@@ -2,23 +2,23 @@
 
 This is a template repository which includes
 
-- Webpack Bundler (CLI & Server)
-- ESLint (Following Airbnb base)
-- Prettier
+-   Webpack Bundler (CLI & Server)
+-   ESLint (Following Airbnb base)
+-   Prettier
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Scripts](#scripts)
-- [License](#license)
+-   [Getting Started](#getting-started)
+    -   [Prerequisites](#prerequisites)
+    -   [Installation](#installation)
+-   [Scripts](#scripts)
+-   [License](#license)
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (>= version 14)
+-   [Node.js](https://nodejs.org/) (>= version 14)
 
-- [npm](https://www.npmjs.com/) (comes with Node.js installation)
+-   [npm](https://www.npmjs.com/) (comes with Node.js installation)
 
 ## Installation
 
