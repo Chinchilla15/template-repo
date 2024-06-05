@@ -9,7 +9,7 @@ The following configurations are added in VSCode settings so that Prettier and E
   // Runs Prettier, then ESLint
   "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"]
 }
-You can remove or chage this setting in the settings.json file by going yo Preferences: Open Workspace Settings (JSON)
+You can remove or chage this setting in the settings.json file by going to Preferences: Open Workspace Settings (JSON) (cmd + shift + P)/(alt + shift + P)
 
 Note: ESlint has some rules applied already, you can check the .eslint.json file and modify it as you wish. 
 
